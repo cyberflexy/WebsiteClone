@@ -5,6 +5,7 @@ Download or clone the project, open cloner.py in your coding enviroment
 
 web url with https:// or https:// for best result, make sure the url doesn't end with backslash(/)
 directory to save the website files <The directory will be created inside your current working directory>
+# Initializing the clone
 sample = cloner("web url", "directory or folder ")
 # Start the clone
 sample.start()
