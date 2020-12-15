@@ -3,7 +3,9 @@ A simple website clone program written in python
 # How to use
 Download or clone the project, open cloner.py in your coding enviroment
 
+## Website to clone
 web url with https:// or https:// for best result, make sure the url doesn't end with backslash(/)
+## Directory
 directory to save the website files <The directory will be created inside your current working directory>
 # Initializing the clone
 sample = cloner("web url", "directory or folder ")
