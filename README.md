@@ -15,5 +15,5 @@ sample = cloner("web url", "directory or folder")
 # Start the clone
 sample.start()
 # How it works
-This program will download every css files, javsacript files, images and internal pages from the webpage you entered and save them in the specified folder.
+This program will download every css files, javascript files, images and internal pages from the webpage you entered and save them in the specified folder.
   Enjoy
